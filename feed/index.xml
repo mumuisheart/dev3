@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Developer Knewton Alta</title>
+	<atom:link href="https://mumuisheart.github.io/dev3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mumuisheart.github.io/dev3</link>
+	<description></description>
+	<lastBuildDate>Sun, 25 Feb 2024 10:46:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Google Core updates and their recovery</title>
+		<link>https://mumuisheart.github.io/dev3/2024/02/25/google-core-updates-and-their-recovery/</link>
+					<comments>https://mumuisheart.github.io/dev3/2024/02/25/google-core-updates-and-their-recovery/#respond</comments>
+		
+		<dc:creator><![CDATA[dev3]]></dc:creator>
+		<pubDate>Sun, 25 Feb 2024 10:46:49 +0000</pubDate>
+				<category><![CDATA[SEO]]></category>
+		<category><![CDATA[Google Core updates]]></category>
+		<category><![CDATA[seo]]></category>
+		<guid isPermaLink="false">https://mumuisheart.github.io/dev3/?p=8</guid>
+
+					<description><![CDATA[It is common knowledge that Google is the largest and most important search engine in the world. More than 2 trillion searches are made every year, and after running 894,660 experiments, Google made exactly 4,725 updates in 2022 (that&#8217;s an average of 13 per day). Most of these updates are rolled out unnoticed, but some of these updates [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>It is common knowledge that Google is the largest and most important search engine in the world. More than 2 trillion searches are made every year, and after running 894,660 experiments, Google made exactly 4,725 updates in 2022 (that&#8217;s an average of 13 per day).</p>
+
+
+
+<p>Most of these updates are rolled out unnoticed, but some of these updates are major changes to the algorithm. These changes are announced by Google at the time of rollout and are usually Google Core updates. These Core updates cause a major change in search results, which will impact most websites.</p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading" id="wat-is-een-google-core-update">What is a Google Core update?</h2>
+
+
+
+<p>The Google Core Update, also called a Broad Core update, is a major algorithm change that applies to all websites.&nbsp;The Core update is an update to Google&#8217;s general algorithm and relates to the EEAT algorithm (Experience, Expertise, Authoritativeness, Trustworthiness) and the quality of websites.</p>
+
+
+
+<p>A Core update aims to improve search results and the search experience.&nbsp;A Core update should show more relevant, useful and reliable search results.&nbsp;Core updates are always rolled out worldwide, so they are not specifically aimed at a country or continent.</p>
+
+
+
+<p>As with other algorithm changes, Google does not indicate exactly what is being changed in the Core update. Google does refer to the guidelines, such as the Search Quality Evaluator Guidelines .</p>
+
+
+
+<h2 class="wp-block-heading" id="hoe-vaak-vinden-core-updates-plaats">How often do Core Updates take place?</h2>
+
+
+
+<p>In most cases, Google Core updates occur several times a year, on average once per quarter.&nbsp;In 2022, 2 Google Core updates and a Helpful Content update took place:</p>
+
+
+
+<ol>
+<li>May 2022 Core Update (rolled out May 22, 2022).</li>
+
+
+
+<li>September 2022 Core Update (rolled out September 12, 2022).</li>
+
+
+
+<li>December 2022 Helpful Content Update (rolled out December 5, 2022).</li>
+</ol>
+
+
+
+<p>So far in 2023, we have had 4 Google Core updates and a Helpful Content update:</p>
+
+
+
+<ol>
+<li>The Core Update in March 2023, rolled out on March 15.</li>
+
+
+
+<li>The Core Update in August 2023, rolled out on August 22.</li>
+
+
+
+<li>The Helpful Content Update in September 2023, rolled out on September 14.</li>
+
+
+
+<li>The Core Update in October 2023, rolled out on October 5.</li>
+
+
+
+<li>The Core Update in November 2023, rolled out on November 2.</li>
+</ol>
+
+
+
+<p>Core updates are announced by Google via the&nbsp;<a href="https://twitter.com/searchliaison">Google SearchLiaison Twitter account</a>&nbsp;.&nbsp;This is done a few days before the update is rolled out.</p>
+
+
+
+<p>After an update has been announced and rolled out, it takes up to two weeks before the Core update is applied in all data centers and countries in the world.</p>
+
+
+
+<h2 class="wp-block-heading" id="wat-is-het-verschil-met-andere-google-algoritme-updates">What is the difference with other Google algorithm updates?</h2>
+
+
+
+<p>There are a number of important differences between Google&#8217;s thousands of algorithm changes and the Google Core updates:</p>
+
+
+
+<ol>
+<li>Google announces Core updates, while this is not the case with normal algorithm changes</li>
+
+
+
+<li>Google recognizes Core updates, while Google does not recognize other algorithm changes</li>
+
+
+
+<li>Google indicates via the Google Webmasters blog that a global look is taken in a Core update, but does not do this with other algorithm changes</li>
+
+
+
+<li>Google Core updates are only rolled out a few times a year after extensive testing, while other updates are rolled out several times a day</li>
+
+
+
+<li>Google Core updates are major changes to the algorithm, while other updates are always minor changes</li>
+
+
+
+<li>Google Core updates focus on relevance, reliability and informativeness, while other updates can specifically target one component (such as&nbsp;<a href="https://smartranking.nl/backlink/">backlinks</a>&nbsp;)</li>
+
+
+
+<li>Google Core updates are aimed at all websites, some algorithm changes are aimed at a specific industry such as health</li>
+</ol>
+
+
+
+<p>So there are major differences between Google&#8217;s normal, daily algorithm changes and the Core updates.</p>
+
+
+
+<p>You can think of a Core update as Netflix recommendations.&nbsp;These recommendations are constantly changing as new series and films are released.&nbsp;Updating the recommendations keeps them current and relevant to you.&nbsp;The Core update actually does this too.</p>
+
+
+
+<h2 class="wp-block-heading" id="belangrijk-om-te-weten">Important to know</h2>
+
+
+
+<p>There is often confusion about the Google Core update, other algorithm changes and penalties.&nbsp;It is therefore important to know that:</p>
+
+
+
+<ol>
+<li>Pages that lose traffic or positions did not receive a penalty after a Core update</li>
+
+
+
+<li>Core updates aim to show more relevant pages within the search results</li>
+
+
+
+<li>Core updates do not specifically address web spam</li>
+
+
+
+<li>You don&#8217;t have to wait for the next Core update to recover from traffic and/or position losses</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading" id="de-reden-waarom-websites-posities-verliezen">The reason why websites lose positions</h2>
+
+
+
+<p>Most websites will see major changes, both positive and negative, in their positions in the period up to 2 weeks after the rollout of the Core update.</p>
+
+
+
+<p>If the Google Core update has a negative impact on your findability, this is because Google finds other pages more relevant.&nbsp;In Google&#8217;s algorithm, changes are made to calculating the relevance of pages during a Core update.</p>
+
+
+
+<p>A decline often has nothing to do with doing something wrong.&nbsp;In the event of a decline, the algorithm finds the pages of your website not as relevant as before.</p>
+
+
+
+<h2 class="wp-block-heading" id="nagaan-of-je-website-geraakt-is-door-een-core-update">Check whether your website has been affected by a Core update</h2>
+
+
+
+<p>After a Core update has been rolled out, you may see a loss of positions.&nbsp;In many cases this is due to a Core update, but it is important to ask yourself the following questions:</p>
+
+
+
+<ol>
+<li>Have there been any major changes to my website?</li>
+
+
+
+<li>Are the pages displayed correctly with the correct information?</li>
+
+
+
+<li>Has a specific page lost visitors or positions?&nbsp;Or is it about my complete website?</li>
+
+
+
+<li>Have I lost traffic in specific countries or worldwide?</li>
+
+
+
+<li>Does the drop in traffic relate to new website visitors or returning website visitors?</li>
+
+
+
+<li>Do I also see an impact on my conversion?</li>
+</ol>
+
+
+
+<p>With the answers to the above questions you have a good basis for investigating the declines.</p>
+
+
+
+<p>To investigate the decline, you can look at the following things, comparing the data with a period in which you were still easy to find:</p>
+
+
+
+<ol>
+<li>Impressions, CTR, positions and clicks on search terms via&nbsp;<a href="https://smartranking.nl/google-search-console-tips/">Google Search Console</a></li>
+
+
+
+<li>Impressions, CTR, positions and clicks on pages via Google Search Console</li>
+
+
+
+<li>Impressions, CTR, positions and clicks in different countries via Google Search Console</li>
+
+
+
+<li>New organic visitors versus returning organic visitors via Google Analytics</li>
+
+
+
+<li>Visitors per device via Google Analytics</li>
+
+
+
+<li>The status codes of the landing pages via an&nbsp;<a href="https://smartranking.nl/tools/http-status-checker/">HTTP status code checker</a></li>
+
+
+
+<li>Crawl errors via Google Search Console</li>
+
+
+
+<li>Error messages or warnings via Google Search Console</li>
+
+
+
+<li>Crawl anomalies via Google Search Console</li>
+</ol>
+
+
+
+<p>Once you have looked at the above data, you will often have a good idea of ​​which search terms and pages have dropped.&nbsp;You may also come to the conclusion that the decrease is not due to the Core update, but that it has another cause.</p>
+
+
+
+<p>In some cases, after an analysis, you come to the conclusion that the decreases are due to a Core update, but that it has no impact on business operations.</p>
+
+
+
+<p>For example, you may have lost a large part of your German visitors, while you only focus on the Netherlands in your business operations.&nbsp;Your conversion will remain the same, but your visitor numbers will decrease.</p>
+
+
+
+<h2 class="wp-block-heading" id="hoe-herstel-je-van-een-core-update">How do you recover from a Core update?</h2>
+
+
+
+<p>Once you are sure that your website has been affected by a Core update, you can take several steps to recover from it.</p>
+
+
+
+<p>Google itself indicates that if you make significant improvements to your website, you will see a positive impact.&nbsp;You don&#8217;t have to wait for the next Core update for this.</p>
+
+
+
+<p>In&nbsp;<a href="https://webmasters.googleblog.com/2019/08/core-updates.html">the official blog of Google Webmasters,</a>&nbsp;Google indicates that you should focus on your content.&nbsp;When optimizing your website for recovery, ask yourself the questions below.</p>
+
+
+
+<h3 class="wp-block-heading" id="vragen-over-de-content-en-kwaliteit-van-content">Questions about the content and quality of content</h3>
+
+
+
+<ul>
+<li>Is the content original, unique and informative?</li>
+
+
+
+<li>Does the content provide a substantial, complete or extensive description of the subject?</li>
+
+
+
+<li>Does the content provide obvious and insightful analyzes or interesting information?</li>
+
+
+
+<li>In case the content is written based on other sources, has the content been rewritten in such a way that it provides extra value and originality for the user?&nbsp;And is content copied from other websites avoided in your own content?</li>
+
+
+
+<li>Does the title and heading of the page contain a useful and descriptive summary of the content?</li>
+
+
+
+<li>Isn&#8217;t the title and headline clickbait?</li>
+
+
+
+<li>Would you bookmark the content yourself or forward it to colleagues, friends and family?</li>
+
+
+
+<li>Is this content qualitative enough to refer to from a book, magazine, authoritarian website or encyclopedia?</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="expert-vragen-over-de-content">Expert questions about the content</h3>
+
+
+
+<ul>
+<li>Is the content reliable and is clear information provided about the original sources, expertise of the writers and background information about the writers or website on which the content is located?</li>
+
+
+
+<li>Is there also an author profile available with more information about the writer?&nbsp;Or a page with more information about your company?</li>
+
+
+
+<li>When you view other pages on your website, do you get the impression that you are viewing the website of an authority within your industry?&nbsp;And do you get a familiar impression of the website?</li>
+
+
+
+<li>Is the content written by an expert who knows a lot about the subject?</li>
+
+
+
+<li>Are there any easily verifiable factual errors in the content?</li>
+
+
+
+<li>Would you trust this content for matters related to your money or personal life?</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="vragen-over-de-vormgeving-en-uitstraling-van-de-content">Questions about the design and appearance of the content</h3>
+
+
+
+<ul>
+<li>Are there any spelling or stylistic errors on the page?</li>
+
+
+
+<li>Is the content written with care?&nbsp;And doesn&#8217;t it look sloppy or hastily written?</li>
+
+
+
+<li>Do all individual pages on the website receive care and attention?&nbsp;And are they updated where necessary?</li>
+
+
+
+<li>Are there any disturbing or distracting advertisements on the page?</li>
+
+
+
+<li>Is the content well designed, so that it is also easy and pleasant to read on mobile devices?</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="vergelijkende-vragen">Comparative questions</h3>
+
+
+
+<ul>
+<li>When you compare the content with other pages in the search results, does the content offer substantial added value?</li>
+
+
+
+<li>Is the content written to provide added value to visitors?&nbsp;Or is the content written purely for the search engines?</li>
+</ul>
+
+
+
+<p>As you can see from the questions above, it is mainly about the quality, reliability and informativeness of your content.&nbsp;Based on the above questions, you can use some common sense to make a good assessment of whether your pages really offer added value.</p>
+
+
+
+<p>If this is not the case, you can start improving the pages, such as rewriting content or improving the layout of the content.&nbsp;Also take a good look at the technology and loading speed of your website.&nbsp;This could also be a cause of the decline.</p>
+
+
+
+<h2 class="wp-block-heading" id="hoelang-duurt-het-herstel-van-een-core-update">How long does it take to restore a Core update?</h2>
+
+
+
+<p>In most cases, after improving your content, you don&#8217;t have to wait for a new Core update to recover from the drop.&nbsp;Because several algorithm changes are made every day, you will see recovery based on these small changes.</p>
+
+
+
+<p>Optimizing your content and improvements to your landing pages do not guarantee recovery from the Core update, but in many cases you will see the first recovery within a few weeks.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mumuisheart.github.io/dev3/2024/02/25/google-core-updates-and-their-recovery/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://mumuisheart.github.io/dev3/2024/02/25/hello-world/</link>
+					<comments>https://mumuisheart.github.io/dev3/2024/02/25/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[dev3]]></dc:creator>
+		<pubDate>Sun, 25 Feb 2024 10:30:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://mumuisheart.github.io/dev3/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mumuisheart.github.io/dev3/2024/02/25/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

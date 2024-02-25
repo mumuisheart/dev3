@@ -1,0 +1,19 @@
+/*
+Theme Name: Titan Digital Agency
+Theme URI: https://www.titanthemes.net/themes/free-digital-agency-wordpress-theme/
+Author: Titan Themes
+Author URI: https://www.titanthemes.net/
+Description: Our digital agency theme specializes in crafting extraordinary WordPress experiences for businesses and individuals alike. Our team of skilled developers, designers, and digital strategists is dedicated to bringing your vision to life in the digital realm. With a strong focus on creativity, functionality, and user engagement, we have designed themes that not only look exceptional but also perform seamlessly.Our custom themes are tailored to your unique needs, offering a range of features such as custom fonts, seamless plugin integrations, and user-friendly drag-and-drop editing. Whether you're looking to establish a powerful online presence, optimize for search engines, or revamp your existing website, our comprehensive suite of services is designed to enhance your digital presence, making it easier than ever to connect with your audience and leave a lasting impact.
+Requires at least: 6.1
+Tested up to: 6.3
+Requires PHP: 5.6
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+Text Domain: titan-digital-agency
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, wide-blocks, block-styles, blog, portfolio, news
+*/
+
+.wp-site-blocks{
+	padding: 0 !important;
+}
